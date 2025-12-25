@@ -1,4 +1,3 @@
-# Test
 # 🔧 Backend Application with Spring Boot
 
 This project is a full-featured **Spring Boot** backend application designed with scalability, security, and efficiency in mind. It includes core backend functionalities such as user registration, login, encrypted password handling, and automated daily email reminders.
